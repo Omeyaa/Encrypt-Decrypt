@@ -1,0 +1,1 @@
+Okey that's done, going to the decryption function now, it is the same process except we will use decrypt() function instead of encrypt.
